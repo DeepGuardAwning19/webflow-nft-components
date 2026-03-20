@@ -26,7 +26,7 @@ This widget allows minting NFTs on your website.
 
 To start, you need an Ethereum NFT contract. [Create it via Buildship app](https://app.buildship.xyz), or test with an [example contract](https://github.com/buildship-dev/webflow-nft-components#example-for-testing).
 
-**ERC721Community** contract by [buildship.xyz](https://buildship.xyz) is used by **400+** NFT drops with **5M$+** primary sales earned for creators.
+**ERC721Community** contract by [buildship.xyz](https://buildship.xyz) is used by **400+** NFT collections with **$10M+** in total volume (**$5M+** primary sales, **$5M+** secondary marketplace volume) and **400,000+** NFTs minted across all contract versions.
 It uses ERC721A, allowing for **50-100% lower** minting gas fees, costs **~10-20$ in gas to deploy**, bullet-proof security and extensions like allow lists, mint passes, etc.
 [Create your contract now](https://app.buildship.xyz)
 
